@@ -60,7 +60,7 @@ Include your plot here
 
 Find the test data root mean squared error
 
-### New Data Sample Data Prediction
+### New Sample Data Prediction
 
 Include your sample input and output here
 
