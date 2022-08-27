@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-!nn model(https://github.com/yoursenpai69/basic-nn-model-177/blob/main/nn_arc.JPG?raw=true)
+<img src="https://github.com/yoursenpai69/basic-nn-model-177/blob/main/nn_arc.JPG" alt="NN architecture not available" title="Optional title">
 
 ## DESIGN STEPS
 
