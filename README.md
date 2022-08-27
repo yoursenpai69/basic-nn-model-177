@@ -47,18 +47,17 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-
-Include your code here
+https://github.com/yoursenpai69/basic-nn-model-177/blob/main/Copy_of_NNTraining.ipynb
 
 ## Dataset Information
 
-Include screenshot of the dataset
+<img src="https://github.com/yoursenpai69/basic-nn-model-177/blob/main/dataset.JPG" alt="plot" title="Optional title">
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-<img src="https://github.com/yoursenpai69/basic-nn-model-177/upload" alt="plot" title="Optional title">
+<img src="https://github.com/yoursenpai69/basic-nn-model-177/blob/main/plot.JPG" alt="plot" title="Optional title">
 
 ### Test Data Root Mean Squared Error
 
