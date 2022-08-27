@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-![alt text](https://github.com/yoursenpai69/basic-nn-model-177/blob/main/nn arc.jpg?raw=true)
+!nn model(https://github.com/yoursenpai69/basic-nn-model-177/blob/main/nn_arc.JPG?raw=true)
 
 ## DESIGN STEPS
 
