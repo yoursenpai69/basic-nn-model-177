@@ -12,6 +12,8 @@ Neural networks are a set of algorithms, modeled loosely after the human brain, 
 ### Regression model
 A regression model provides a function that describes the relationship between one or more independent variables and a response, dependent, or target variable. For example, the relationship between height and weight may be described by a linear regression mode.
 
+###Model
+This model takes in one input and passes it onto two hidden layers containing 10 and 15 neurons respectively. This model is then trained for 5000 epochs with mean squared error as the loss function.
 ## Neural Network Model
 
 <img src="https://github.com/yoursenpai69/basic-nn-model-177/blob/main/nn_arc.JPG" alt="NN architecture not available" title="Optional title">
